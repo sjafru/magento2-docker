@@ -1,3 +1,5 @@
+Clone From: https://github.com/fballiano/docker-magento2.git
+
 # Docker Magento2: Varnish + PHP7 + Redis + SSL cluster ready docker-compose infrastructure
 
 ## Infrastructure overview
